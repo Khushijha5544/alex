@@ -9,7 +9,7 @@ from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
 # Yaha apni YouTube API key daalein
-YOUTUBE_API_KEY = "AIzaSyA_qvINxsrUgMYpOPeOarwP_ZbiHEjl6hU
+YOUTUBE_API_KEY = "AIzaSyA_qvINxsrUgMYpOPeOarwP_ZbiHEjl6hU" 
 
 async def shell_cmd(cmd):
     proc = await asyncio.create_subprocess_shell(
