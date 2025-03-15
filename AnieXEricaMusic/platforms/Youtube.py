@@ -9,7 +9,7 @@ from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
 # Yaha apni YouTube API key daalein
-YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"
+YOUTUBE_API_KEY = "8170254854:AAFS0rbC-_rpX_FXaigXhi6uNEvr98SEgC4"
 
 
 async def shell_cmd(cmd):
